@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there :wave: I'm Krittin :man_technologist:
+![i'm reaading a book !](https://tuliptgr.github.io/randominclass/img/kkrittin.png)
+
+
 
 <!--
 **tuliptgr/tuliptgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
