@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Hi!%20I%27m%20Krittin!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi!%20I%27m%20Krittin!&fontAlign=50&fontAlignY=50&fontSize=90&fontColor=ffffff&animation=fadeIn">
 </div> 
     
 <div align="center">
@@ -35,7 +35,7 @@
 
 <h3 align="center">👨‍💻 My Github Stats 👨‍💻</h3>
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=tuliptgr&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=tuliptgr&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=omni" /></a>
 </div>
 <br><br>
 
