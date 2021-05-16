@@ -1,9 +1,10 @@
 <h1 align="center"> Hi there :wave: I'm Krittin :man_technologist: </h1>
 <p align="center">
-  <img src="https://tuliptgr.github.io/randominclass/img/kkrittin.png" alt="i'm reaading a book !" width="400" >
+  <img src="https://tuliptgr.github.io/randominclass/img/kkrittin.png" alt="i'm reaading a book !" width="300" >
 </p>
-
-
+<p align='center'>
+  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=StefanyVasc.StefanyVasc??style=for-the-badge&logo=appveyor"></a>
+</p>
 <!--
 **tuliptgr/tuliptgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
