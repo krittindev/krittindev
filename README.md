@@ -1,5 +1,5 @@
 <div align="center">
-  <int src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Hi!%20I%27m%20Krittin!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Hi!%20I%27m%20Krittin!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000&animation=fadeIn">
     </div> 
 <p align="center">
   <img src="https://tuliptgr.github.io/randominclass/img/kkrittin.png" alt="i'm reaading a book !" width="300" >
