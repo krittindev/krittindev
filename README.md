@@ -1,6 +1,6 @@
 ### Hi there :wave: I'm Krittin :man_technologist:
 
-<img src="https://tuliptgr.github.io/randominclass/img/kkrittin.png" alt="i'm reaading a book !" width="200" center/>
+<img src="https://tuliptgr.github.io/randominclass/img/kkrittin.png" alt="i'm reaading a book !" width="400" align="center"/>
 
 
 <!--
