@@ -3,7 +3,7 @@
   <img src="https://tuliptgr.github.io/randominclass/img/kkrittin.png" alt="i'm reaading a book !" width="300" >
 </p>
 <p align='center'>
-  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=StefanyVasc.StefanyVasc??style=for-the-badge&logo=appveyor"></a>
+  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=tuliptgr"></a>
 </p>
 <!--
 **tuliptgr/tuliptgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
