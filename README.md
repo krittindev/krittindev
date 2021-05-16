@@ -35,7 +35,7 @@
 
 <h3 align="center">👨‍💻 My Github Stats 👨‍💻</h3>
 <div align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuliptgr&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=tuliptgr&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue" /></a>
 </div>
 <br><br>
 
