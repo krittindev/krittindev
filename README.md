@@ -3,7 +3,7 @@
 </div> 
     
 <div align="center">
-  <img src="https://tuliptgr.github.io/randominclass/img/kkrittin.png" alt="i'm reaading a book !" width="300" >
+  <img src="https://krittindev.github.io/randominclass/img/kkrittin.png" alt="i'm reaading a book !" width="300" >
 </div>
 <br><br>
 
