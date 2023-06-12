@@ -5,7 +5,7 @@ Hi 👋 My name is Krittin Kunaree
 Colleague Student at Chulalongkorn University  
 
 * 🖥️  See my portfolio at [krittin.dev](http://krittin.dev) 
-* ✉️  You can contact me at [krittin.kunaree@gmail.com](mailto:krittin.kunaree@gmail.com) 
+* ✉️  You can contact me at [krittin.contact@gmail.com](mailto:krittin.contact@gmail.com) 
 * 🤝  I'm open to collaborating on [@Deepinvest-team](https://github.com/Deepinvest-team)
 
 <img src="https://krittindev.github.io/randominclass/img/kkrittin.png" alt="i'm reaading a book !" width="300" >
